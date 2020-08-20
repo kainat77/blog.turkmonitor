@@ -3,10 +3,30 @@
     <title>TURKMONITOR</title>
     <link href="https://kainat77.github.io/blog.turkmonitor/feed.xml" rel="self" />
     <link href="https://kainat77.github.io/blog.turkmonitor" />
-    <updated>1970-01-01T02:00:00+02:00</updated>
+    <updated>2020-08-20T21:52:54+03:00</updated>
     <author>
         <name>Oktay Simsek</name>
     </author>
     <id>https://kainat77.github.io/blog.turkmonitor</id>
 
+    <entry>
+        <title>DENEME</title>
+        <author>
+            <name>Oktay Simsek</name>
+        </author>
+        <link href="https://kainat77.github.io/blog.turkmonitor/deneme.html"/>
+        <id>https://kainat77.github.io/blog.turkmonitor/deneme.html</id>
+
+        <updated>2020-08-20T21:50:20+03:00</updated>
+            <summary>
+                <![CDATA[
+                    İşte bir deneme...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>İşte bir deneme...</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
